@@ -1,6 +1,7 @@
 # swift-doc
 
 ![CI][ci badge]
+![Documentation](https://github.com/SwiftDocOrg/swift-doc/workflows/Documentation/badge.svg)
 
 A package for generating documentation for Swift projects.
 
